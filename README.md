@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="./zenith-banner.png"
+       width="100%"
+       alt="ZENITH — Still training. Still climbing.">
+</div>
+<div align="center">
 
 # S A M A W I I Z E N I T H
 
